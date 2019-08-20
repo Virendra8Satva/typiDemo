@@ -1,8 +1,11 @@
 {
-  "posts": [
+  "users": [
     {
       "id": 1,
-      "title": "Post 1"
+      "userId" : "geek",
+      "username" : "john",
+      "userEmail" : "john@gmail.com",
+      "password" : "John1213#"
     },
     {
       "id": 2,
