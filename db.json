@@ -5,14 +5,18 @@
       "userId" : "geek",
       "username" : "john",
       "userEmail" : "john@gmail.com",
-      "password" : "John1213#"
+      "password" : "John1213#",
+      "noQuesstionsAsked" : 1,
+      "noAnswersGiven" : 1,
     },
     {
       "id": 2,
       "userId" : "nerd",
       "username" : "joseph",
       "userEmail" : "joseph@gmail.com",
-      "password" : "Joseph1213#"
+      "password" : "Joseph1213#",
+      "noQuesstionsAsked" : 1,
+      "noAnswersGiven" : 1,
     }
   ],
   "comments": [ 
